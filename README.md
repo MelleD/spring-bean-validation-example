@@ -1,1 +1,1 @@
-# spring-data-eclipse-link-demo
+# spring-bean-validation-example
